@@ -1,2 +1,2 @@
-# TensorFlow
-Tensor Flow Learning modules
+# Pytorch
+Pytorch Learning modules
